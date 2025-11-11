@@ -26,7 +26,7 @@ We design, build and ship real products — fast, lean, and open-source when it 
 
 | Project              | Description                                                                  | Status            |
 |----------------------|------------------------------------------------------------------------------|-------------------|
-| **Klickbee CMS**      | A monolithic CMS built with Next.js & React. Fast, composable, self-hosted. | 🧪 MVP September      |
+| **Klickbee CMS**      | A monolithic CMS built with Next.js & React. Fast, composable, self-hosted. | 🧪 MVP December      |
 | **Klickbee CRM**      | A developer-friendly CRM to track clients, deals, and actions.              | 🚀 [v1](https://github.com/Klickbee/klickbee-crm)  |
 | **Klickbee Social**   | A lightweight social media planning + scheduling tool (self-hosted).        | 🔜 Starting soon     |
 | **Klickbee Project**  | Project tracking, task management, team flows — made simple and efficient.  | 🔜 Starting soon     |
