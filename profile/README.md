@@ -1,5 +1,9 @@
 <h1 align="center">KlickBee</h1>
 
+# Due to the recent suspension of [JMauclair](https://github.com/JMauclair), active founder of Klickbee, for no reasons, we decided to stop using Github and any Github's related services
+# You'll find all the latest Klickbee related news here : https://git.stralya.com/Klickbee
+
+
 <p align="center"><strong>Open tools. Real products. No bullshit.</strong></p>
 
 <p align="center">
